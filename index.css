@@ -1,0 +1,26 @@
+.containeer-fluid{
+    margin-right: 30px;
+}
+#row{
+    background-image: url(Group.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:22% 74%;
+    margin-top: 0px;
+    margin-right: 107px;
+    
+}
+#glookk-vendor{
+    background-color:#4812c2;
+}
+#Our{
+    padding-left: 80px;
+}
+.card-{
+    width: 55px !important;
+    
+}
+#Card{
+       background-color: #f1eff6; 
+}
+
