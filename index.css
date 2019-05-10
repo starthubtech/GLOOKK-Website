@@ -1,3 +1,43 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.download-fresh{
+    padding: 8px;
+    background-color: #F8F9FA;
+    border-radius: 4px;
+    color: #4812C2;
+    
+}
+li #download{
+    text-decoration: none;
+}
+.download-fresh:hover{
+    background-color: #4812C2;
+    color: white;
+    cursor: pointer;
+}
+.nav-pot{
+margin-top: 8px;
+
+}
+.fame {
+    margin-top: 200px;
+}
+.mate{
+margin-left: -18px;
+}
+
+#angle{
+    font-weight: 500;
+}
+
+#imela{
+    font-weight: 500;
+}
+
+.col-md-4{
+    margin-left: -10px;
 .containeer-fluid{
     margin-right: 30px;
 }
