@@ -1,0 +1,51 @@
+.real{
+    color: rgb(238, 232, 232);
+    font-size: 35px;   
+}
+.booking {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30em;
+
+}
+body {
+    overflow-x: hidden;
+}
+#kilo{
+    background-image: url(Rectangle2.png);
+    min-height: 100vh;
+}
+.wild{
+margin-right: 20px;
+color: rgb(252, 247, 247);
+font-size: 17px;
+}
+.love{
+margin-left: 80px;
+margin-top: -48px;
+color: white;
+}
+
+.download-fresh{
+    padding: 8px;
+    background-color: #F8F9FA;
+    border-radius: 4px;
+    color: #4812C2;
+    
+}
+li #download{
+    text-decoration: none;
+}
+.download-fresh:hover{
+    background-color: #4812C2;
+    color: white;
+    cursor: pointer;
+}
+
+
+    
+
+    
+.col-md-4{
+margin-left: -10px;}
